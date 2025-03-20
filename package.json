@@ -11,7 +11,6 @@
     "build": "react-scripts build"
   },
   "dependencies": {
-    "@react-three/drei": "^10.0.4",
     "@react-three/fiber": "^9.1.0",
     "@types/react": "^18.0.0",
     "@types/react-test-renderer": "^18.0.0",
